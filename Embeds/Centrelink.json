@@ -1,0 +1,113 @@
+{
+  "version": 7,
+  "backups": [
+    {
+      "name": "Centrelink",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "Victoria Police",
+                "color": 5814783,
+                "fields": [
+                  {
+                    "name": "Commanding Officers",
+                    "value": "Commander Harrison Crew (Haz#8373)\nSuperintendent Vacant (Discord#1234)"
+                  },
+                  {
+                    "name": "Application",
+                    "value": "http://police.apostlenetworks.com.au/ or in F2 in Game"
+                  },
+                  {
+                    "name": "Headquarters",
+                    "value": "Postal 217"
+                  }
+                ],
+                "thumbnail": {
+                  "url": "https://cdn-longterm.mee6.xyz/plugins/embeds/images/970977729107357746/268d52a4b3f3c259cece74d5aa14cb1e51bc07375e04881d8ce9a53a61914259.png"
+                }
+              },
+              {
+                "title": "Ambulance Victoria",
+                "color": 16067371,
+                "fields": [
+                  {
+                    "name": "Commanding Members",
+                    "value": "Chief Executive Officer - Ralph Hay (Doctor Ralphyyy#8324)\nChief Operations Officer - Vacant (Discord#1234)"
+                  },
+                  {
+                    "name": "Application",
+                    "value": "http://ambulance.apostlenetworks.com.au"
+                  },
+                  {
+                    "name": "Headquarters",
+                    "value": "Postal 201"
+                  }
+                ],
+                "thumbnail": {
+                  "url": "https://cdn.discordapp.com/attachments/990447584562802729/990525172551389224/AVLogo1.png"
+                }
+              },
+              {
+                "title": "RACV",
+                "color": 16768256,
+                "fields": [
+                  {
+                    "name": "Management",
+                    "value": "Branch Manager - Ricky Sanchez (Mooni#9664)"
+                  },
+                  {
+                    "name": "Application",
+                    "value": "http://racv.apostlenetworks.com.au"
+                  },
+                  {
+                    "name": "Headquarters",
+                    "value": "Postal 424"
+                  }
+                ],
+                "thumbnail": {
+                  "url": "https://cdn.discordapp.com/attachments/990447584562802729/990527327639310346/RACV_Logo_Card_600x400-removebg-preview.png"
+                }
+              },
+              {
+                "title": "Redline Performance",
+                "color": 16711680,
+                "fields": [
+                  {
+                    "name": "Commanding Officers",
+                    "value": "Management - Joseph Capone (CASHMEIFYOUCAN#0058)\nManagement - Franky Frank (Franky Frank#1234)"
+                  },
+                  {
+                    "name": "Application",
+                    "value": "http://redline.apostlenetworks.com.au"
+                  },
+                  {
+                    "name": "Headquarters",
+                    "value": "Postal 372"
+                  }
+                ]
+              },
+              {
+                "title": "Application Status",
+                "description": "Do not react to this message - see above\nPlease see the current status for job applications for each department below.\n\nIf applications are closed for a specific department, please check back soon - if an application is received while they are closed it may be deleted without response.\n\nVictoria Police | 🟢\nAmbulance Victoria | 🟢\nRACV | 🔴\nRedline Performance | 🟢\n\n**Status Indicators**\n🟢 - Applications are open, please read details below\n🔴 - Applications are currently on hold, please check back later",
+                "color": 16579836,
+                "thumbnail": {
+                  "url": "https://cdn.discordapp.com/attachments/990447584562802729/990536718975373332/NoText1.png"
+                }
+              }
+            ],
+            "attachments": []
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discordapp.com/api/webhooks/990521527118233670/fNdbaT4tHu3eeE4UBRxTfp_QGhwV7XlC7odS2qcToWGHp2faaQloWSZuedPmkWBe78f-"
+        }
+      ]
+    }
+  ]
+}
